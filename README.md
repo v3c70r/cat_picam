@@ -1,6 +1,7 @@
 # Cat_PiCam
 
 这个程序的主要目的用于我们不在家的时候监视家里猫吃饭的状况。是一个运行在 Raspberry Pi 上的简易微信机器人。
+![img](https://github.com/v3c70r/cat_picam/raw/master/screen.png)
 
 ## 硬件依赖
 
